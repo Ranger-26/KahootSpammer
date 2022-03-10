@@ -2,7 +2,7 @@
 Simple program that spams a kahoot game
 
 # Steps to run
-1) Download the binary and extract all of the contents into any folder/
+1) Download the binary and extract all of the contents into any folder.
 2) Open up the run.bat file in a text editor.
 3) Edit the parameters according to the usage below
 4) Run the run.bat file by clicking on it.
