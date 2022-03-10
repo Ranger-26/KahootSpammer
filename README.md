@@ -9,6 +9,7 @@ Simple program that spams a kahoot game
 
 # Usage
 Usage: `KahootBot.exe [code] [num_bots] [basePlayerName]`
+
 Example: `KahootBot.exe 3363424 10 Gamer`
 
 ## Arguments
